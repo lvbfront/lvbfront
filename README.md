@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/pyuqu99" target="blank"><img src="https://img.shields.io/twitter/follow/pyuqu99?logo=twitter&style=for-the-badge" alt="pyuqu99" /></a> </p>
 
-- 🔭 I’m currently working on react projects **prac-shop**
+<h3 align="left">🔭 most of my projects are private :)</h3>
 
 - 📝 I regularly write articles on X [https://twitter.com/pyuqU99](https://twitter.com/pyuqU99)
 
